@@ -15,10 +15,10 @@ Note: Make sure you have already installed  `composer`, `laravel` and `xampp`
 -   Open `XAMPP` Control Panel and run `Apache` and `MySQL` navigate to `phpmyadmin` and create database name `ssa_backend_exam_sql`
 
 ## database migration
--   Right click on `ssa_backend_exam` folder, if you have git bash or any other terminal tool press right click and select `Git Bash Here` or using `cmd` navigate directory to `ssa_backend_exam` folder and type `php artisan migrate --seed` and press `Enter` to migrate all tables and data
+-   Right click on `leonardo_prieto_back-end_exam` folder, if you have git bash or any other terminal tool press right click and select `Git Bash Here` or using `cmd` navigate directory to `leonardo_prieto_back-end_exam` folder and type `php artisan migrate --seed` and press `Enter` to migrate all tables and data
 
 ## run php artisan serve
-- In your current command line directory `ssa_backend_exam` folder, type `php artisan serve` to run locally
+- In your current command line directory `leonardo_prieto_back-end_exam` folder, type `php artisan serve` to run locally
 
 ## Run in Browser
 http://127.0.0.1:8000
